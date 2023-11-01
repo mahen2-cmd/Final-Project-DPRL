@@ -14,6 +14,7 @@
 
 - **Objective:** Develop an AI model for 3D Tic Tac Toe on a 4x4x4 grid, employing various approaches to create an optimal policy.
 - **Deadline:** December 8th, 2023.
+- You can play the game here: https://www.mathsisfun.com/games/foursight-3d-tic-tac-toe.html
 
 ### Grade Distribution:
 
