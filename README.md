@@ -29,3 +29,16 @@ For any queries or clarifications, please feel free to reach out to the instruct
 
 Best of luck for a successful project journey!
 
+## Plagiarism Policy
+
+Plagiarism in any form will not be tolerated and will result in severe consequences, including but not limited to academic penalties and disciplinary action. Students are expected to adhere to the following guidelines:
+
+- Refrain from directly copying code or solutions from external sources, including online platforms, forums, or previous projects.
+- Understand and implement the concepts and algorithms independently, utilizing external resources for reference purposes only.
+- Provide proper citations and attributions for any external resources, code snippets, or research findings used in the project.
+
+Any instances of plagiarism or academic dishonesty will be thoroughly investigated, and appropriate actions will be taken in accordance with the institute's academic integrity policy.
+
+It is the responsibility of each student to uphold academic honesty and integrity throughout the duration of the project.
+
+
